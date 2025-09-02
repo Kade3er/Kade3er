@@ -6,7 +6,7 @@
 - <b>Active directory : password management</b>
   - [Active directory : password management](https://github.com/Kade3er/Active-directory-Password-management/tree/main)
 - <b>ServiceNow : Password reset ticket</b>
- 
+  - [ServiceNow : Password reset ticket](https://github.com/Kade3er/Servicenow-Password-reset-ticket)
 - <b>Active directory : User management </b>
  
 
