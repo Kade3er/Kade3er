@@ -3,9 +3,7 @@
 
 <h2>IT Projects:</h2>
 
-- <b>Active directory : password management</b>
-  - [Active directory : password management](https://github.com/Kade3er/Active-directory-Password-management/tree/main)
-- <b>Active directory : User management </b>
+
 - <b>ServiceNow : Password reset ticket</b>
   - [ServiceNow : Password reset ticket](https://github.com/Kade3er/Servicenow-Password-reset-ticket)
 - <b>ServiceNow : No Internet Connection </b>
